@@ -1,3 +1,4 @@
+*Status - Ready for use!*
 # Setup with Sass
 
 Template for basic HTML page running with SASS.
